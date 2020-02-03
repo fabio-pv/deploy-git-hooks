@@ -1,0 +1,8 @@
+#!/bin/bash
+cd ~/git_fun/production_test/WebCOL_2.0_Corteva
+#env -i git reset —hard
+env -i git pull origin dev
+env -i npm install
+echo '********************* FIM *********************'
+exit
+
