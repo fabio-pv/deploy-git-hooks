@@ -2,3 +2,4 @@
 Script para realizar o deploy através do Git
 3213213123
 32324
+312321321
